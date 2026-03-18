@@ -3,3 +3,7 @@ Generalization		pattern matching
 
 ANI	- Artificial Narrow Intelligence
 AGI	- 	     General
+
+cvbnm
+asdfghjk
+tyuiop
