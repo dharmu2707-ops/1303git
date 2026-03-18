@@ -1,0 +1,5 @@
+
+Generalization		pattern matching
+
+ANI	- Artificial Narrow Intelligence
+AGI	- 	     General

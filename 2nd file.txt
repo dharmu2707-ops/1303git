@@ -1,0 +1,6 @@
+
+Only labeled?
+use of Unlabeled?
+only uses labeled?
+store data?
+can machine identify unlabel and change labeled
